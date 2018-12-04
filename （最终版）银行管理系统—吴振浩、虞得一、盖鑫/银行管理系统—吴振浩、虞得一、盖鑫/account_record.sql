@@ -1,0 +1,15 @@
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1001, NULL, 'addAccount', 111, '2018-05-20 17:48:02', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1002, NULL, 'addAccount', 222, '2018-05-20 17:49:54', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1003, NULL, 'addAccount', 333, '2018-05-20 17:50:52', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1004, NULL, 'addAccount', 222, '2018-05-20 17:52:58', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1005, NULL, 'addAccount', 666, '2018-05-20 18:09:06', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'addAccount', 10, '2018-05-20 18:45:51', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'addMoney', 123, '2018-05-20 18:46:24', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'reduceMoney', 10, '2018-05-20 18:46:42', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'reduceMoney', 3, '2018-05-20 18:47:37', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'changePass', 0, '2018-05-20 18:48:23', '000000', '123456');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'reduceMoney', 120, '2018-05-20 18:48:53', '123456', '123456');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1006, NULL, 'delAccount', 0, '2018-05-20 18:48:53', '123456', '123456');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1005, NULL, 'reduceMoney', 666, '2018-05-20 18:49:25', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1005, NULL, 'delAccount', 0, '2018-05-20 18:49:25', '000000', '000000');
+INSERT INTO `account_record` (`id`, `id_accept`, `type`, `money`, `date`, `password_past`, `password_new`) VALUES (1007, NULL, 'addAccount', 3000000000, '2018-05-20 19:00:04', '000000', '000000');
